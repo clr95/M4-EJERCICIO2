@@ -1,0 +1,54 @@
+body{
+  background: linear-gradient(0.25turn, #1339f6, #72e4e4, #3ceaf6);
+  margin:0 auto;
+}
+
+h1{
+    margin: 2%;
+    padding: 2%;
+  }
+
+p{
+  margin: 1%;
+  padding: 1%;
+}
+
+.container{
+  padding: 2%;
+  margin: 2%;
+  background-color: gray;
+  border-radius: 5%;
+  box-shadow: 1% -7% rgb(71, 78, 78);
+}
+input{
+  border-radius: 6%;
+  height: 4rem;
+  color: white;
+}
+.tecla{
+  width: 8rem;
+  margin: 1%;
+  height: 3rem;
+  align-items: center;
+  text-align: center;
+  font-size: x-large;
+  border-radius: 6%;
+  font-weight: bold;
+}
+.num{
+  width: 8rem;
+  margin: 1%;
+  height: 3rem;
+  align-items: center;
+  text-align: center;
+  font-size: x-large;
+  border-radius: 6%;
+}
+.resultado {
+  width: 7rem;
+  text-align: center;
+  font-size: x-large;
+  border-radius: 6%;
+  height: 14rem;
+  display: flex;
+}
